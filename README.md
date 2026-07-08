@@ -81,8 +81,8 @@ bioinformatics-api-data-integration/
 Clone the repository
 
 ```bash
-git clone https://github.com/EmilMendoza/bioinformatics-api-data-integration.git
-cd bioinformatics-api-data-integration
+git clone https://github.com/EmilMendoza/pharmacogenomics-data-integration.git
+cd pharmacogenomics-data-integration
 ```
 
 Install dependencies
