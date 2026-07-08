@@ -1,0 +1,158 @@
+{
+  "data": {
+    "drugs": {
+      "nodes": [
+        {
+          "interactions": [
+            {
+              "gene": {
+                "name": "SLC2A4",
+                "conceptId": "hgnc:11009",
+                "longName": "solute carrier family 2 member 4"
+              },
+              "interactionScore": 0.3385841545412541,
+              "interactionTypes": [],
+              "interactionAttributes": [],
+              "publications": [
+                {
+                  "pmid": 8622594
+                },
+                {
+                  "pmid": 12215475
+                }
+              ],
+              "sources": [
+                {
+                  "sourceDbName": "NCI"
+                }
+              ]
+            },
+            {
+              "gene": {
+                "name": "CAST",
+                "conceptId": "hgnc:1515",
+                "longName": "calpastatin"
+              },
+              "interactionScore": 2.160489367072764,
+              "interactionTypes": [],
+              "interactionAttributes": [],
+              "publications": [
+                {
+                  "pmid": 11159730
+                }
+              ],
+              "sources": [
+                {
+                  "sourceDbName": "NCI"
+                }
+              ]
+            },
+            {
+              "gene": {
+                "name": "FASLG",
+                "conceptId": "hgnc:11936",
+                "longName": "Fas ligand"
+              },
+              "interactionScore": 2.520570928251558,
+              "interactionTypes": [],
+              "interactionAttributes": [],
+              "publications": [
+                {
+                  "pmid": 15315341
+                }
+              ],
+              "sources": [
+                {
+                  "sourceDbName": "NCI"
+                }
+              ]
+            },
+            {
+              "gene": {
+                "name": "CXCL8",
+                "conceptId": "hgnc:6025",
+                "longName": "C-X-C motif chemokine ligand 8"
+              },
+              "interactionScore": 0.1890428196188668,
+              "interactionTypes": [],
+              "interactionAttributes": [],
+              "publications": [
+                {
+                  "pmid": 9846973
+                }
+              ],
+              "sources": [
+                {
+                  "sourceDbName": "NCI"
+                }
+              ]
+            },
+            {
+              "gene": {
+                "name": "CCN2",
+                "conceptId": "hgnc:2500",
+                "longName": "cellular communication network factor 2"
+              },
+              "interactionScore": 0.5816702142118981,
+              "interactionTypes": [],
+              "interactionAttributes": [],
+              "publications": [
+                {
+                  "pmid": 15770649
+                }
+              ],
+              "sources": [
+                {
+                  "sourceDbName": "NCI"
+                }
+              ]
+            },
+            {
+              "gene": {
+                "name": "APOE",
+                "conceptId": "hgnc:613",
+                "longName": "apolipoprotein E"
+              },
+              "interactionScore": 0.5816702142118981,
+              "interactionTypes": [],
+              "interactionAttributes": [],
+              "publications": [
+                {
+                  "pmid": 12105166
+                },
+                {
+                  "pmid": 15585195
+                }
+              ],
+              "sources": [
+                {
+                  "sourceDbName": "NCI"
+                }
+              ]
+            },
+            {
+              "gene": {
+                "name": "MAPK8",
+                "conceptId": "hgnc:6881",
+                "longName": "mitogen-activated protein kinase 8"
+              },
+              "interactionScore": 0.2363035245235836,
+              "interactionTypes": [],
+              "interactionAttributes": [],
+              "publications": [
+                {
+                  "pmid": 14615289
+                }
+              ],
+              "sources": [
+                {
+                  "sourceDbName": "NCI"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
